@@ -1,4 +1,4 @@
-public class Quicksort { // stolen code
+public class Quicksort {
 
     // partition function
     static int partition(int[] arr, int low, int high)

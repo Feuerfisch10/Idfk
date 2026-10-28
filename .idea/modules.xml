@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Idfk.iml" filepath="$PROJECT_DIR$/.idea/Idfk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomBs.iml" filepath="$PROJECT_DIR$/RandomBs.iml" />
     </modules>
   </component>
 </project>
