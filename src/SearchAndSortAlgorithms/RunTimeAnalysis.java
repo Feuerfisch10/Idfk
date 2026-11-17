@@ -1,3 +1,5 @@
+package SearchAndSortAlgorithms;
+
 import java.util.Random;
 
 public class RunTimeAnalysis{

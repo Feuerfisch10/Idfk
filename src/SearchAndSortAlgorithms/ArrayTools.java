@@ -1,3 +1,5 @@
+package SearchAndSortAlgorithms;
+
 public class ArrayTools {
     private static int[] testint = new int[]{1,2,3,4,5};
     private static int[] array1 = {7,3,1};

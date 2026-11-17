@@ -1,3 +1,5 @@
+package SearchAndSortAlgorithms;
+
 public class StalinSort {
     public static int[] sort(int[] arr, int value){ //e xecute/remove
         int j = 0;

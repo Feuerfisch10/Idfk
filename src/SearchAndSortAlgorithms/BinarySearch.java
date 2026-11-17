@@ -1,4 +1,6 @@
-public class BinarySearch { // wait this aint binary search????? wtf kinda search algorithm did i build?
+package SearchAndSortAlgorithms;
+
+public class BinarySearch {
     public static int search(int[] arr, int low, int high, int value){
         if(arr.length == 0){
             return -1;
